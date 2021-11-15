@@ -1,5 +1,14 @@
 # @backstage/plugin-user-settings
 
+## 0.3.11
+
+### Patch Changes
+
+- 274a4fc633: Add Props Icon for Sidebar Item SidebarSearchField and Settings
+- Updated dependencies
+  - @backstage/core-components@0.7.4
+  - @backstage/core-plugin-api@0.2.0
+
 ## 0.3.10
 
 ### Patch Changes

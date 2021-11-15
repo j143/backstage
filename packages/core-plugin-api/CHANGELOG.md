@@ -1,5 +1,16 @@
 # @backstage/core-plugin-api
 
+## 0.2.0
+
+### Minor Changes
+
+- 7e18ed7f29: Removed the unused `UserFlags` type.
+
+### Patch Changes
+
+- 2dd2a7b2cc: Deprecated the `theme` property on `AppTheme`, replacing it with `Provider`. See https://backstage.io/docs/api/deprecations#app-theme for more details.
+- b6a4bacdc4: Deprecated the `Error` and `ErrorContext` types, replacing them with identical `ErrorApiError` and `ErrorApiErrorContext` types.
+
 ## 0.1.13
 
 ### Patch Changes

@@ -1,5 +1,19 @@
 # @backstage/plugin-catalog
 
+## 0.7.3
+
+### Patch Changes
+
+- 38d6df6bb9: Remove the "View Api" icon in the AboutCard, as the information is misleading for some users and is
+  duplicated in the tabs above.
+- Updated dependencies
+  - @backstage/catalog-client@0.5.2
+  - @backstage/catalog-model@0.9.7
+  - @backstage/core-components@0.7.4
+  - @backstage/core-plugin-api@0.2.0
+  - @backstage/integration-react@0.1.14
+  - @backstage/plugin-catalog-react@0.6.4
+
 ## 0.7.2
 
 ### Patch Changes

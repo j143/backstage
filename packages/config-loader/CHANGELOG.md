@@ -1,5 +1,11 @@
 # @backstage/config-loader
 
+## 0.7.3
+
+### Patch Changes
+
+- 8809b6c0dd: Update the json-schema dependency version.
+
 ## 0.7.2
 
 ### Patch Changes

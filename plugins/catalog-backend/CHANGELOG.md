@@ -1,5 +1,15 @@
 # @backstage/plugin-catalog-backend
 
+## 0.17.4
+
+### Patch Changes
+
+- b90fc74d70: adds getDefaultProcessor method to CatalogBuilder
+- Updated dependencies
+  - @backstage/catalog-client@0.5.2
+  - @backstage/catalog-model@0.9.7
+  - @backstage/backend-common@0.9.10
+
 ## 0.17.3
 
 ### Patch Changes

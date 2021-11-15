@@ -1,5 +1,16 @@
 # @backstage/plugin-scaffolder-backend
 
+## 0.15.13
+
+### Patch Changes
+
+- 26eb174ce8: Skip empty file names when scaffolding with nunjucks
+- Updated dependencies
+  - @backstage/catalog-client@0.5.2
+  - @backstage/catalog-model@0.9.7
+  - @backstage/backend-common@0.9.10
+  - @backstage/plugin-catalog-backend@0.17.4
+
 ## 0.15.12
 
 ### Patch Changes
